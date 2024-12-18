@@ -1,6 +1,5 @@
 @WavesOfWarServer_HostAddress = http://localhost:5207
-
-GET {{WavesOfWarServer_HostAddress}}/weatherforecast/
+GET {{WavesOfWarServer_HostAddress}}/
 Accept: application/json
 
 ###
